@@ -10,5 +10,8 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "no-console": "off",
+        "indent": ["error", 3],
+        "linebreak-style": ["error", "windows"],
     }
 }
